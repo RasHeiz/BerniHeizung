@@ -1,0 +1,8 @@
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z1 start
+DEBUG:root:Z1 ok
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message

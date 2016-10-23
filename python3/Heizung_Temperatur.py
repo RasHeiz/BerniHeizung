@@ -11,7 +11,7 @@ spi.open(0,1)
 logDate=time.time()
 logDate1=time.localtime(logDate)
 logDate2=str(time.strftime("%d%m%y_%H%M%S", logDate1))
-logfile='/home/pi/Documents/BerniHeizung/python3/log/LOG_HzngT_'+logDate2+'.log'
+logfile='/home/pi/Documents/BerniHeizung/python3/log/LOG_HzngT.log'
 logging.basicConfig(filename=logfile, level=logging.DEBUG)
 
 la11=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] #liste antwort1[1]
@@ -25,7 +25,15 @@ eps=1e-20
 file='/home/pi/Documents/BerniHeizung/python3/Heizung_T.csv'
 Datum0_0=0
 
+open(logfile, 'w').close() #logfile leeren
+
 while True:
+
+    if os.path.isfile(logfile) is True:
+        logSize=os.path.getsize(logfile)
+        print(logSize)
+        if logSize > 500000:
+            open(logfile, 'w').close() #logfile leeren
 
 # Zeitabgleich, damit neues csv. file angelegt wird
     Datum0=time.time()
