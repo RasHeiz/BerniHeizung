@@ -1,0 +1,250 @@
+DEBUG:root:S3 überwachung start
+DEBUG:root:S3 im hintergrund gestartet
+DEBUG:root:S3 aus
+DEBUG:root:S4 überwachung start
+DEBUG:root:S4 im hintergrund gestartet
+DEBUG:root:S4 aus
+DEBUG:root:S2_taster eventüberwachung gestartet
+DEBUG:root:LCD ansteuerung initialisiert
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z1 start
+DEBUG:root:Z1 ok
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message

@@ -2,8 +2,17 @@
 import spidev
 import time
 import csv
+import os
+import logging
 spi=spidev.SpiDev()
 spi.open(0,1)
+
+#logfile
+logDate=time.time()
+logDate1=time.localtime(logDate)
+logDate2=str(time.strftime("%d%m%y_%H%M%S", logDate1))
+logfile='/home/pi/Documents/BerniHeizung/python3/log/LOG_HzngT_'+logDate2+'.log'
+logging.basicConfig(filename=logfile, level=logging.DEBUG)
 
 la11=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] #liste antwort1[1]
 la12=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] #liste antowrt1[2]
@@ -13,10 +22,30 @@ lt=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] #liste zeitstempel
 tStep=1
 mtStep=10
 eps=1e-20
-file='Heizung_T.csv'
+file='/home/pi/Documents/BerniHeizung/python3/Heizung_T.csv'
+Datum0_0=0
 
 while True:
 
+# Zeitabgleich, damit neues csv. file angelegt wird
+    Datum0=time.time()
+    print(Datum0)
+    ZeitDiff=Datum0-Datum0_0
+    print(ZeitDiff)
+    print(os.path.isfile(file))
+    if ZeitDiff > 60 and os.path.isfile(file) is True: # archiviert .csv-file, wenn bestimmtes alter überschritten ist        
+        logging.debug('.csv file wird archiviert')
+        Datum0_0=Datum0
+        Datum1=time.localtime(Datum0)
+        Datum2=str(time.strftime("%d%m%y_%H%M%S", Datum1))
+        print(Datum2)        
+        print("Datum aktualisiert")
+        file_old="/home/pi/Documents/BerniHeizung/python3/T_log/"+Datum2+".csv"
+        print(str(file_old))
+        os.rename(file, file_old)
+
+# Liste mit n=mtStep Werten füllen
+    logging.debug('Start T-werte erfassen')
     for i in range(0,mtStep): 
 
         #0-128 1-144 2-160 3-176 4-192 5-208 6-224 7-240
@@ -37,7 +66,8 @@ while True:
         lt.append(t)        
         time.sleep(tStep)
 
-    #sortiert listen nach grösse und entfernt 3 höchsten und 3 niedrigsten werte
+#sortiert listen nach grösse und entfernt 3 höchsten und 3 niedrigsten werte
+    logging.debug('t-liste sortieren und werte löschen')
     La11=list(la11)
     La11.sort()
     del La11[20]
@@ -74,7 +104,8 @@ while True:
     del La22[0]
     del La22[0]
     
-    #mittelwert der reduzierten listen
+#mittelwert der reduzierten listen
+    logging.debug('Mittelwerte berechnen')
     La11m=sum(La11)/len(La11)    
     La12m=sum(La12)/len(La12)
     
@@ -82,6 +113,7 @@ while True:
     La22m=sum(La22)/len(La22)        
     
     if 0<= antwort1[1]<=3:
+        logging.debug('Mittelwert 1 in T umrechnen')
         vMax1=3.29406
         vMin1=0.00322
         vRange1=vMax1-vMin1
@@ -95,6 +127,7 @@ while True:
         print(T1," °C",)
             
     if 0<= antwort2[1]<=3:
+        logging.debug('Mittelwert 2 in T umrechnen')
         vMax2=3.29406
         vMin2=0.00322
         vRange2=vMax2-vMin2
@@ -108,14 +141,19 @@ while True:
         round(T2,2)
         print(T2," °C",)
 
+    logging.debug('Zeitpunkt der mittleren temperatur auslesen')
     timeLoc=time.localtime(lt[11])
     date=time.strftime("%d/%m/%y %H:%M:%S", timeLoc)
     print(date)
+
+#Schreiben der temperaturen und zeit in liste, falls sinnvolle werte vorhanden
     
     if la21[0]>0 or la11[0]>0:
+        logging.debug('Werte sind vorhanden --> schreiben in .csv')
         with open(file, 'a') as out:
             cw=csv.writer(out, delimiter=',', lineterminator='\n',quotechar='"')
             cw.writerow([lt[11],T1,T2])
+        logging.debug('Werte in .csv geschrieben')
             
             
         
