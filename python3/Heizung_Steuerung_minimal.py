@@ -199,7 +199,7 @@ def tZ2():
     time.sleep(1)       #erster Zeitschritt
     while t_Z2 < 30:
         t_Z2=t_Z2+1        
-        time.sleep(1)   #weitere Zeitschritte
+        time.sleep(60)   #weitere Zeitschritte
     tZ2Aktiv=0
     logging.debug('Stop timer tZ2')
 
@@ -212,7 +212,7 @@ def tZ3():
     time.sleep(1)       #erster Zeitschritt
     while t_Z3 < 30:
         t_Z3=t_Z3+1        
-        time.sleep(1)   #weitere Zeitschritte
+        time.sleep(60)   #weitere Zeitschritte
     tZ3Aktiv=0
     logging.debug('Stop timer tZ3')
         

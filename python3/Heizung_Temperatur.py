@@ -41,7 +41,7 @@ while True:
     ZeitDiff=Datum0-Datum0_0
     print(ZeitDiff)
     print(os.path.isfile(file))
-    if ZeitDiff > 60 and os.path.isfile(file) is True: # archiviert .csv-file, wenn bestimmtes alter überschritten ist        
+    if ZeitDiff > 60*60*5 and os.path.isfile(file) is True: # archiviert .csv-file, wenn bestimmtes alter überschritten ist        
         logging.debug('.csv file wird archiviert')
         Datum0_0=Datum0
         Datum1=time.localtime(Datum0)
