@@ -1,1 +1,1 @@
-https://github.com/adafruit/Adafruit_Python_CharLCD
+https://github.com/adafruit/Adafruit_Python_CharLCD --> sudo python3 setup.py install
