@@ -17,7 +17,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294880.8538969 T1=19.83 T2=17.1
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320664.1447597 T1=66.15 T2=185.06
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -25,7 +25,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294890.8736682 T1=19.83 T2=16.38
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320674.1640885 T1=66.5 T2=183.25
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -33,7 +33,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294903.2008388 T1=19.54 T2=16.67
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320690.585156 T1=66.15 T2=180.57
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -41,7 +41,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294913.2169547 T1=19.54 T2=21.72
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320700.602417 T1=65.28 T2=178.03
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -49,7 +49,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294923.2301621 T1=19.69 T2=23.11
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320710.6211054 T1=64.94 T2=174.39
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -57,7 +57,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294933.2433715 T1=19.83 T2=18.82
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320720.654013 T1=65.2 T2=174.01
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -65,7 +65,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294943.2608936 T1=19.98 T2=15.53
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320730.688669 T1=65.02 T2=171.77
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -73,7 +73,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294953.2767627 T1=19.47 T2=15.46
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320740.707432 T1=64.59 T2=170.54
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -81,7 +81,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294963.2921388 T1=19.33 T2=14.89
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320750.7271268 T1=64.85 T2=170.78
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -89,7 +89,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294973.3075137 T1=19.4 T2=16.38
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320760.7467773 T1=64.77 T2=171.65
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -97,7 +97,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294983.3235836 T1=19.25 T2=16.03
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320770.7651484 T1=63.9 T2=171.4
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -105,7 +105,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477294993.3398688 T1=19.4 T2=15.39
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320780.7803602 T1=63.48 T2=172.15
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -113,7 +113,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295003.3559103 T1=19.47 T2=14.54
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320790.7975345 T1=63.3 T2=175.39
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -121,7 +121,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295013.3683214 T1=19.54 T2=17.81
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320800.810578 T1=63.13 T2=176.27
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -129,7 +129,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295023.379375 T1=19.54 T2=22.38
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320810.8262687 T1=63.39 T2=177.65
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -137,7 +137,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295033.3918684 T1=19.33 T2=19.76
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320820.8399308 T1=62.96 T2=179.3
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -145,7 +145,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295043.404266 T1=19.33 T2=15.81
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320830.8556209 T1=62.36 T2=179.3
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -153,7 +153,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295053.4202313 T1=19.61 T2=14.54
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320840.8761916 T1=63.22 T2=182.74
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -161,7 +161,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295063.4356174 T1=19.76 T2=19.04
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320850.8926585 T1=63.39 T2=187.65
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -169,7 +169,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295073.4510953 T1=19.69 T2=23.04
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320860.911298 T1=63.05 T2=191.97
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -177,7 +177,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295083.467488 T1=19.83 T2=19.33
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320870.925817 T1=62.7 T2=196.35
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -185,7 +185,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295093.4813967 T1=19.76 T2=15.1
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320880.943347 T1=62.45 T2=195.15
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -193,7 +193,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295103.4970233 T1=19.54 T2=14.54
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320890.959016 T1=62.28 T2=195.42
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -201,7 +201,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295113.5136046 T1=19.61 T2=14.25
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320900.977959 T1=62.88 T2=196.89
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -209,7 +209,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295123.5330477 T1=19.83 T2=18.32
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320910.9968555 T1=63.39 T2=199.84
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -217,7 +217,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295133.5477254 T1=19.83 T2=19.83
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320921.013174 T1=63.13 T2=202.01
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -225,7 +225,7 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295143.5651724 T1=19.69 T2=14.89
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320931.032212 T1=62.7 T2=201.47
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen
 DEBUG:root:t-liste sortieren und werte löschen
@@ -233,6 +233,286 @@ DEBUG:root:Mittelwerte berechnen
 DEBUG:root:Mittelwert 1 in T umrechnen
 DEBUG:root:Mittelwert 2 in T umrechnen
 DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
-DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477295153.5807858 T1=19.61 T2=14.68
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320941.0485296 T1=62.79 T2=203.64
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320951.0640206 T1=63.39 T2=205.01
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320961.0781548 T1=63.39 T2=207.35
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320971.092662 T1=63.13 T2=213.76
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320981.1101463 T1=63.82 T2=217.29
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477320991.123224 T1=63.65 T2=214.04
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321001.1381764 T1=63.39 T2=212.35
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321011.1515234 T1=63.39 T2=216.72
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321021.1709676 T1=63.05 T2=218.29
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321031.1840627 T1=63.82 T2=216.72
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321041.1991947 T1=64.59 T2=217.01
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321051.2109249 T1=63.48 T2=221.58
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321061.2256677 T1=63.13 T2=225.05
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321071.239162 T1=63.22 T2=224.61
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321081.2551837 T1=63.39 T2=223.74
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321091.2691927 T1=63.39 T2=225.05
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321101.2808666 T1=64.08 T2=225.77
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321111.2951684 T1=64.85 T2=225.92
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321121.3111534 T1=64.33 T2=224.47
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321131.3254862 T1=64.16 T2=223.45
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321141.3409486 T1=63.99 T2=224.76
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321151.3547573 T1=64.08 T2=224.76
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321161.3680665 T1=64.16 T2=221.15
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321171.3835003 T1=63.9 T2=221.29
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321181.397888 T1=63.82 T2=221.72
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321191.4120293 T1=65.37 T2=223.02
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321201.4254441 T1=65.8 T2=220.43
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321211.4409606 T1=64.68 T2=219.43
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321221.45595 T1=64.51 T2=223.02
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321231.4715304 T1=64.33 T2=222.15
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321241.4865434 T1=64.33 T2=223.02
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321251.5085588 T1=64.59 T2=226.21
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321261.523659 T1=64.42 T2=222.01
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321271.539486 T1=64.42 T2=221.72
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321281.5533073 T1=64.68 T2=221.86
+DEBUG:root:Werte in .csv geschrieben
+DEBUG:root:Start T-werte erfassen
+DEBUG:root:t-liste sortieren und werte löschen
+DEBUG:root:Mittelwerte berechnen
+DEBUG:root:Mittelwert 1 in T umrechnen
+DEBUG:root:Mittelwert 2 in T umrechnen
+DEBUG:root:Zeitpunkt der mittleren temperatur auslesen
+DEBUG:root:Werte sind vorhanden --> schreiben in .csv t=1477321291.568343 T1=64.16 T2=221.58
 DEBUG:root:Werte in .csv geschrieben
 DEBUG:root:Start T-werte erfassen

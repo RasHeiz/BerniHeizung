@@ -1,21 +1,21 @@
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=0 T_K=0 T_A=0 T_R=50.5
+DEBUG:root:Z=0 T_K=0 T_A=0 T_R=40.8
 DEBUG:root:Z1 start
 DEBUG:root:Z1 ok
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=0 T_A=0 T_R=51.0
+DEBUG:root:Z=1 T_K=0 T_A=0 T_R=38.6
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=0 T_A=0 T_R=49.4
+DEBUG:root:Z=1 T_K=0 T_A=0 T_R=37.6
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=0 T_A=0 T_R=48.3
+DEBUG:root:Z=1 T_K=0 T_A=0 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -23,7 +23,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=17.1 T_R=47.8
+DEBUG:root:Z=1 T_K=66.15 T_A=185.06 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -31,7 +31,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=17.1 T_R=48.3
+DEBUG:root:Z=1 T_K=66.15 T_A=185.06 T_R=38.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -39,7 +39,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=17.1 T_R=48.3
+DEBUG:root:Z=1 T_K=66.15 T_A=185.06 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -47,7 +47,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=17.1 T_R=48.9
+DEBUG:root:Z=1 T_K=66.15 T_A=185.06 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -55,7 +55,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=17.1 T_R=47.8
+DEBUG:root:Z=1 T_K=66.15 T_A=185.06 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -63,7 +63,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=16.38 T_R=48.3
+DEBUG:root:Z=1 T_K=66.15 T_A=185.06 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -71,7 +71,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=16.38 T_R=47.2
+DEBUG:root:Z=1 T_K=66.5 T_A=183.25 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -79,7 +79,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=16.38 T_R=48.3
+DEBUG:root:Z=1 T_K=66.5 T_A=183.25 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -87,7 +87,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=16.38 T_R=47.8
+DEBUG:root:Z=1 T_K=66.5 T_A=183.25 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -95,193 +95,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=16.38 T_R=47.8
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=16.67 T_R=47.8
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=16.67 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=16.67 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=16.67 T_R=47.2
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=16.67 T_R=47.8
-DEBUG:root:Start S2_taster aktion
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=21.72 T_R=47.8
-DEBUG:root:Start S2_taster aktion
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=21.72 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=21.72 T_R=47.2
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=21.72 T_R=47.8
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.54 T_A=21.72 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.69 T_A=23.11 T_R=47.8
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.69 T_A=23.11 T_R=47.2
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.69 T_A=23.11 T_R=47.2
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.69 T_A=23.11 T_R=47.8
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=18.82 T_R=47.2
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=18.82 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=18.82 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=18.82 T_R=47.2
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.83 T_A=18.82 T_R=47.8
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.98 T_A=15.53 T_R=47.8
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.98 T_A=15.53 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.98 T_A=15.53 T_R=48.9
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.98 T_A=15.53 T_R=47.8
+DEBUG:root:Z=1 T_K=66.5 T_A=183.25 T_R=37.0
 DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
@@ -291,7 +105,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.98 T_A=15.53 T_R=48.3
+DEBUG:root:Z=1 T_K=66.15 T_A=180.57 T_R=37.0
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -299,7 +113,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.47 T_A=15.46 T_R=47.8
+DEBUG:root:Z=1 T_K=66.15 T_A=180.57 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -307,7 +121,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.47 T_A=15.46 T_R=48.3
+DEBUG:root:Z=1 T_K=66.15 T_A=180.57 T_R=36.5
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -315,7 +129,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.47 T_A=15.46 T_R=48.3
+DEBUG:root:Z=1 T_K=66.15 T_A=180.57 T_R=38.1
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -323,7 +137,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.47 T_A=15.46 T_R=48.3
+DEBUG:root:Z=1 T_K=66.15 T_A=180.57 T_R=37.6
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -331,47 +145,7 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.47 T_A=15.46 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.33 T_A=14.89 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.33 T_A=14.89 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.33 T_A=14.89 T_R=48.3
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.33 T_A=14.89 T_R=48.9
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.4 T_A=16.38 T_R=48.3
+DEBUG:root:Z=1 T_K=65.28 T_A=178.03 T_R=37.0
 DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
@@ -380,21 +154,133 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=1 T_K=19.4 T_A=16.38 T_R=47.8
+DEBUG:root:Z=1 T_K=65.28 T_A=178.03 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=1 T_K=65.28 T_A=178.03 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=1 T_K=65.28 T_A=178.03 T_R=36.5
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=1 T_K=65.28 T_A=178.03 T_R=37.0
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=1 T_K=64.94 T_A=174.39 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=1 T_K=64.94 T_A=174.39 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=1 T_K=64.94 T_A=174.39 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=1 T_K=64.94 T_A=174.39 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Z2 start
 DEBUG:root:Start timer tZ2
 DEBUG:root:Z2 ok
 DEBUG:root:S4 an
-DEBUG:root:Start lesen der aktuellen Temperatur 1
-DEBUG:root:Stop lesen der aktuellen Temperatur 1
-DEBUG:root:Start lesen der aktuellen Temperatur 2
-DEBUG:root:Stop lesen der aktuellen Temperatur 2
-DEBUG:root:LCD clear
-DEBUG:root:LCD cursor an Pos1
-DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.4 T_A=16.38 T_R=48.3
-DEBUG:root:Z2 start
-DEBUG:root:Z2 ok
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Z3 start
+DEBUG:root:Start timer tZ3
+DEBUG:root:Z3 ok
+DEBUG:root:Z4 start
+DEBUG:root:S4 aus
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start Servo to Pos 1330 
+DEBUG:root:S3 an
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Stop Servo to Pos 1330 
+DEBUG:root:Z4 ok
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Z5 start
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start Servo to Pos 1380 
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Stop Servo to Pos 1380 
+DEBUG:root:Z5 ok
 DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start S2_taster aktion
@@ -405,7 +291,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.4 T_A=16.38 T_R=48.9
+DEBUG:root:Z=5 T_K=63.9 T_A=171.4 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -413,7 +303,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.25 T_A=16.03 T_R=48.3
+DEBUG:root:Z=5 T_K=63.9 T_A=171.4 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -421,15 +315,21 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.25 T_A=16.03 T_R=48.3
+DEBUG:root:Z=5 T_K=63.9 T_A=171.4 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
 DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.25 T_A=16.03 T_R=48.9
+DEBUG:root:Z=5 T_K=63.48 T_A=172.15 T_R=35.9
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -437,7 +337,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.25 T_A=16.03 T_R=48.3
+DEBUG:root:Z=5 T_K=63.48 T_A=172.15 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -445,7 +349,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.25 T_A=16.03 T_R=47.8
+DEBUG:root:Z=5 T_K=63.48 T_A=172.15 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -453,7 +360,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.4 T_A=15.39 T_R=48.3
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Z=5 T_K=63.48 T_A=172.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -461,7 +371,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.4 T_A=15.39 T_R=48.9
+DEBUG:root:Z=5 T_K=63.48 T_A=172.15 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -469,7 +383,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.4 T_A=15.39 T_R=48.9
+DEBUG:root:Z=5 T_K=63.3 T_A=175.39 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -477,7 +395,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.4 T_A=15.39 T_R=48.3
+DEBUG:root:Z=5 T_K=63.3 T_A=175.39 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -485,7 +406,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.4 T_A=15.39 T_R=48.3
+DEBUG:root:Z=5 T_K=63.3 T_A=175.39 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -493,7 +417,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.47 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=63.3 T_A=175.39 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -501,7 +429,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.47 T_A=14.54 T_R=47.8
+DEBUG:root:Z=5 T_K=63.3 T_A=175.39 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -509,7 +441,9 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.47 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=63.13 T_A=176.27 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -517,7 +451,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.47 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=63.13 T_A=176.27 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -525,7 +463,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.47 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=63.13 T_A=176.27 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -533,7 +475,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=17.81 T_R=48.3
+DEBUG:root:Z=5 T_K=63.13 T_A=176.27 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -541,7 +486,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=17.81 T_R=47.8
+DEBUG:root:Z=5 T_K=63.39 T_A=177.65 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -549,7 +497,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=17.81 T_R=47.8
+DEBUG:root:Z=5 T_K=63.39 T_A=177.65 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -557,7 +509,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=17.81 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=177.65 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -565,7 +521,9 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=17.81 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=177.65 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -573,7 +531,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=22.38 T_R=48.9
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Z=5 T_K=63.39 T_A=177.65 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -581,7 +543,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=22.38 T_R=48.3
+DEBUG:root:Z=5 T_K=62.96 T_A=179.3 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -589,7 +555,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=22.38 T_R=48.3
+DEBUG:root:Z=5 T_K=62.96 T_A=179.3 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -597,7 +566,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=22.38 T_R=48.3
+DEBUG:root:Z=5 T_K=62.96 T_A=179.3 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -605,7 +577,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=22.38 T_R=48.3
+DEBUG:root:Z=5 T_K=62.96 T_A=179.3 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -613,7 +589,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=19.76 T_R=48.3
+DEBUG:root:Z=5 T_K=62.96 T_A=179.3 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -621,7 +601,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=19.76 T_R=48.3
+DEBUG:root:Z=5 T_K=62.36 T_A=179.3 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -629,7 +612,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=19.76 T_R=47.8
+DEBUG:root:Z=5 T_K=62.36 T_A=179.3 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -637,7 +623,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=19.76 T_R=48.3
+DEBUG:root:Z=5 T_K=62.36 T_A=179.3 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -645,7 +635,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=15.81 T_R=48.3
+DEBUG:root:Z=5 T_K=62.36 T_A=179.3 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -653,7 +647,9 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=15.81 T_R=48.3
+DEBUG:root:Z=5 T_K=62.36 T_A=179.3 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -661,7 +657,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=15.81 T_R=48.3
+DEBUG:root:Z=5 T_K=63.22 T_A=182.74 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -669,7 +669,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=15.81 T_R=48.3
+DEBUG:root:Z=5 T_K=63.22 T_A=182.74 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -677,7 +681,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.33 T_A=15.81 T_R=48.9
+DEBUG:root:Z=5 T_K=63.22 T_A=182.74 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -685,7 +692,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.54 T_R=49.4
+DEBUG:root:Z=5 T_K=63.22 T_A=182.74 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -693,7 +703,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=63.22 T_A=182.74 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -701,7 +715,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.54 T_R=47.8
+DEBUG:root:Z=5 T_K=63.39 T_A=187.65 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -709,15 +727,21 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=187.65 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
 DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=19.04 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=187.65 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -725,7 +749,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=19.04 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=187.65 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -733,15 +761,21 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=19.04 T_R=48.9
+DEBUG:root:Z=5 T_K=63.39 T_A=187.65 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
 DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=19.04 T_R=47.8
+DEBUG:root:Z=5 T_K=63.05 T_A=191.97 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -749,7 +783,8 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=19.04 T_R=48.3
+DEBUG:root:Z=5 T_K=63.05 T_A=191.97 T_R=36.5
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -757,7 +792,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=23.04 T_R=48.9
+DEBUG:root:Z=5 T_K=63.05 T_A=191.97 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -765,7 +803,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=23.04 T_R=48.3
+DEBUG:root:Z=5 T_K=63.05 T_A=191.97 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -773,7 +815,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=23.04 T_R=48.9
+DEBUG:root:Z=5 T_K=62.7 T_A=196.35 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -781,7 +826,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=23.04 T_R=47.2
+DEBUG:root:Z=5 T_K=62.7 T_A=196.35 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -789,7 +837,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=23.04 T_R=48.3
+DEBUG:root:Z=5 T_K=62.7 T_A=196.35 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -797,15 +849,21 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.33 T_R=48.3
+DEBUG:root:Z=5 T_K=62.7 T_A=196.35 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
 DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.33 T_R=48.3
+DEBUG:root:Z=5 T_K=62.7 T_A=196.35 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -813,7 +871,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.33 T_R=48.9
+DEBUG:root:Z=5 T_K=62.45 T_A=195.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -821,7 +883,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.33 T_R=47.2
+DEBUG:root:Z=5 T_K=62.45 T_A=195.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -829,15 +895,21 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.33 T_R=48.3
+DEBUG:root:Z=5 T_K=62.45 T_A=195.15 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
 DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=15.1 T_R=47.8
+DEBUG:root:Z=5 T_K=62.45 T_A=195.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -845,7 +917,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=15.1 T_R=47.8
+DEBUG:root:Z=5 T_K=62.45 T_A=195.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -853,7 +929,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=15.1 T_R=47.2
+DEBUG:root:Z=5 T_K=62.28 T_A=195.42 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -861,7 +940,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=15.1 T_R=48.3
+DEBUG:root:Z=5 T_K=62.28 T_A=195.42 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -869,7 +951,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.76 T_A=15.1 T_R=48.3
+DEBUG:root:Z=5 T_K=62.28 T_A=195.42 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -877,15 +963,21 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=14.54 T_R=47.8
+DEBUG:root:Z=5 T_K=62.28 T_A=195.42 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
 DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=62.28 T_A=195.42 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -893,7 +985,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=14.54 T_R=47.8
+DEBUG:root:Z=5 T_K=62.88 T_A=196.89 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -901,7 +997,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=14.54 T_R=47.8
+DEBUG:root:Z=5 T_K=62.88 T_A=196.89 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -909,7 +1009,9 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.54 T_A=14.54 T_R=48.3
+DEBUG:root:Z=5 T_K=62.88 T_A=196.89 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -917,7 +1019,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.25 T_R=47.2
+DEBUG:root:Z=5 T_K=62.88 T_A=196.89 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -925,7 +1031,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.25 T_R=47.8
+DEBUG:root:Z=5 T_K=62.88 T_A=196.89 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -933,7 +1043,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.25 T_R=47.2
+DEBUG:root:Z=5 T_K=63.39 T_A=199.84 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -941,7 +1054,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.25 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=199.84 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -949,7 +1065,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=18.32 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=199.84 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -957,7 +1077,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=18.32 T_R=48.3
+DEBUG:root:Z=5 T_K=63.39 T_A=199.84 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -965,7 +1088,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=18.32 T_R=47.2
+DEBUG:root:Z=5 T_K=63.39 T_A=199.84 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -973,7 +1099,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=18.32 T_R=48.3
+DEBUG:root:Z=5 T_K=63.13 T_A=202.01 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -981,7 +1111,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=18.32 T_R=47.8
+DEBUG:root:Z=5 T_K=63.13 T_A=202.01 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -989,7 +1123,9 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.83 T_R=47.2
+DEBUG:root:Z=5 T_K=63.13 T_A=202.01 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -997,7 +1133,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.83 T_R=48.3
+DEBUG:root:Z=5 T_K=63.13 T_A=202.01 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1005,7 +1145,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.83 T_R=47.8
+DEBUG:root:Z=5 T_K=63.13 T_A=202.01 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1013,7 +1157,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.83 T_R=48.3
+DEBUG:root:Z=5 T_K=62.7 T_A=201.47 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1021,7 +1168,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.83 T_A=19.83 T_R=48.3
+DEBUG:root:Z=5 T_K=62.7 T_A=201.47 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1029,7 +1179,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=14.89 T_R=48.9
+DEBUG:root:Z=5 T_K=62.7 T_A=201.47 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1037,7 +1191,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=14.89 T_R=48.3
+DEBUG:root:Z=5 T_K=62.7 T_A=201.47 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1045,7 +1202,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=14.89 T_R=48.3
+DEBUG:root:Z=5 T_K=62.79 T_A=203.64 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1053,7 +1213,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=14.89 T_R=48.9
+DEBUG:root:Z=5 T_K=62.79 T_A=203.64 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1061,7 +1225,11 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.69 T_A=14.89 T_R=48.3
+DEBUG:root:Z=5 T_K=62.79 T_A=203.64 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1069,7 +1237,10 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.68 T_R=48.3
+DEBUG:root:Z=5 T_K=62.79 T_A=203.64 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
 DEBUG:root:Start lesen der aktuellen Temperatur 1
 DEBUG:root:Stop lesen der aktuellen Temperatur 1
 DEBUG:root:Start lesen der aktuellen Temperatur 2
@@ -1077,4 +1248,1901 @@ DEBUG:root:Stop lesen der aktuellen Temperatur 2
 DEBUG:root:LCD clear
 DEBUG:root:LCD cursor an Pos1
 DEBUG:root:LCD show message
-DEBUG:root:Z=2 T_K=19.61 T_A=14.68 T_R=48.3
+DEBUG:root:Z=5 T_K=62.79 T_A=203.64 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=205.01 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=205.01 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=205.01 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=205.01 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=205.01 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=207.35 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=207.35 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=207.35 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=207.35 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=207.35 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=213.76 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=213.76 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=213.76 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=213.76 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=213.76 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=217.29 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=217.29 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=217.29 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=217.29 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=217.29 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.65 T_A=214.04 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.65 T_A=214.04 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.65 T_A=214.04 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.65 T_A=214.04 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=212.35 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=212.35 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=212.35 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=212.35 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=212.35 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=216.72 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=216.72 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=216.72 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=216.72 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=216.72 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.05 T_A=218.29 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.05 T_A=218.29 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.05 T_A=218.29 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.05 T_A=218.29 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.05 T_A=218.29 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=216.72 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=216.72 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=216.72 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=216.72 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=216.72 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=217.01 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=217.01 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=217.01 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=217.01 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=217.01 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.48 T_A=221.58 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.48 T_A=221.58 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.48 T_A=221.58 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.48 T_A=221.58 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=225.05 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.13 T_A=225.05 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.22 T_A=224.61 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.22 T_A=224.61 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.22 T_A=224.61 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.22 T_A=224.61 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.22 T_A=224.61 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=223.74 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=223.74 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=223.74 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=223.74 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=223.74 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.39 T_A=225.05 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Z=5 T_K=64.08 T_A=225.77 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=225.77 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=225.77 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=225.77 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=225.77 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.85 T_A=225.92 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.85 T_A=225.92 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.85 T_A=225.92 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.85 T_A=225.92 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.85 T_A=225.92 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=224.47 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=224.47 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=224.47 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=224.47 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=223.45 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=223.45 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=223.45 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=223.45 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=223.45 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.99 T_A=224.76 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.99 T_A=224.76 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.99 T_A=224.76 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.99 T_A=224.76 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.99 T_A=224.76 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=224.76 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=224.76 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=224.76 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=224.76 T_R=37.0
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.08 T_A=224.76 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=221.15 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=221.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=221.15 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=221.15 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=221.15 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.9 T_A=221.29 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.9 T_A=221.29 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.9 T_A=221.29 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Z=5 T_K=63.9 T_A=221.29 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.9 T_A=221.29 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=221.72 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=221.72 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=221.72 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=63.82 T_A=221.72 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.37 T_A=223.02 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.37 T_A=223.02 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.37 T_A=223.02 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.37 T_A=223.02 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.37 T_A=223.02 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.8 T_A=220.43 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.8 T_A=220.43 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.8 T_A=220.43 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.8 T_A=220.43 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=65.8 T_A=220.43 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=219.43 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=219.43 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=219.43 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=219.43 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=219.43 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.51 T_A=223.02 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.51 T_A=223.02 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.51 T_A=223.02 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.51 T_A=223.02 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.51 T_A=223.02 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=222.15 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=222.15 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=222.15 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=222.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=222.15 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=223.02 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Z=5 T_K=64.33 T_A=223.02 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=223.02 T_R=36.5
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=223.02 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.33 T_A=223.02 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=226.21 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=226.21 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=226.21 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.59 T_A=226.21 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=222.01 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=222.01 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=222.01 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=222.01 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=222.01 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=221.72 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=221.72 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=221.72 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=221.72 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.42 T_A=221.72 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=221.86 T_R=37.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=221.86 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=221.86 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=221.86 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.68 T_A=221.86 T_R=38.6
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start lesen der aktuellen Temperatur 1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Stop lesen der aktuellen Temperatur 1
+DEBUG:root:Start lesen der aktuellen Temperatur 2
+DEBUG:root:Stop lesen der aktuellen Temperatur 2
+DEBUG:root:LCD clear
+DEBUG:root:LCD cursor an Pos1
+DEBUG:root:LCD show message
+DEBUG:root:Z=5 T_K=64.16 T_A=221.58 T_R=38.1
+DEBUG:root:Start S2_taster aktion
+DEBUG:root:Start S2_taster aktion

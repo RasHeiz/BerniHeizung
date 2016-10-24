@@ -8,8 +8,11 @@ import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(38,GPIO.OUT)
 GPIO.setup(32,GPIO.OUT)
+GPIO.setup(36,GPIO.OUT)
+
 GPIO.output(32,GPIO.HIGH)
-GPIO.output(32,GPIO.LOW)
+GPIO.output(36,GPIO.LOW)
+
 
 
 
@@ -29,7 +32,7 @@ while True:
     time.sleep(0.5)
     servo(3,1100)
     time.sleep(0.1)
-    servo(3,1270)#610-2450
+    servo(3,1330)#610-2450
     print("100V")
     GPIO.output(38, GPIO.HIGH)
     time.sleep(30)
@@ -37,7 +40,7 @@ while True:
     time.sleep(0.5)
     servo(3,1100)
     time.sleep(0.1)
-    servo(3,1325)#610-2450
+    servo(3,1380)#610-2450
     print("90V")
     GPIO.output(38, GPIO.HIGH)
     time.sleep(30)
@@ -45,7 +48,7 @@ while True:
     time.sleep(0.5)
     servo(3,1100)
     time.sleep(0.1)
-    servo(3,1370)#610-2450
+    servo(3,1420)#610-2450
     print("82V")
     GPIO.output(38, GPIO.HIGH)
     time.sleep(30)
@@ -53,7 +56,7 @@ while True:
     time.sleep(0.5)
     servo(3,1100)
     time.sleep(0.1)
-    servo(3,1415)#610-2450
+    servo(3,1465)#610-2450
     print("74V")
     GPIO.output(38, GPIO.HIGH)
     time.sleep(30)
@@ -61,7 +64,7 @@ while True:
     time.sleep(0.5)
     servo(3,1100)
     time.sleep(0.1)
-    servo(3,1475)#610-2450
+    servo(3,1505)#610-2450
     print("67V")
     GPIO.output(38, GPIO.HIGH)
     time.sleep(30)

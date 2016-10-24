@@ -144,11 +144,11 @@ def Servo(servoPin, relaisPin, servoPos, servoSleep): #650-2450
     pi.set_mode(servoPin, pigpio.OUTPUT)
     
     GPIO.output(relaisPin, GPIO.LOW)
-    time.sleep(0.5)        
+    time.sleep(2)        
     pi.set_servo_pulsewidth(servoPin, 1100)
     time.sleep(servoSleep)
     pi.set_servo_pulsewidth(servoPin, servoPos)
-    time.sleep(0.5)
+    time.sleep(2)
     GPIO.output(relaisPin, GPIO.HIGH)
     pi.stop()
     servoAktiv=0
@@ -328,6 +328,10 @@ lcd = LCD.Adafruit_CharLCD(lcd_rs, lcd_en, lcd_d4, lcd_d5, lcd_d6, lcd_d7,
                            lcd_columns, lcd_rows, lcd_backlight)
 logging.debug('LCD ansteuerung initialisiert')
 
+
+tZSleep=10
+
+
 #Hauptprozess -------------------------------------------------------------------------------
 lcd.clear()
 open(logfile, 'w').close() #logfile leeren
@@ -376,6 +380,7 @@ try:
         logging.debug('Z=%s T_K=%s T_A=%s T_R=%s',Z, T_K, T_A, TR[5:9])
 
         if ((Z is 2 and T_A<80 and t_Z2 is 30)or(T_A<75 and not Z is 2)) and not Z is 1:
+            time.sleep(tZSleep)
             logging.debug('Z1 start')
             Z=1
             AK=0
@@ -384,6 +389,7 @@ try:
             logging.debug('Z1 ok')
 
         if Z is 3 and T_A>75 and t_Z3 is 30 and AK is 1:
+            time.sleep(tZSleep)
             logging.debug('Z10 start')
             Z=10
             ZU=90
@@ -391,12 +397,13 @@ try:
             S4_status=0
             time.sleep(delay)
             S3_status=1
-            Servo(3,20,1325,0.2)
+            Servo(3,20,1380,2)
             logging.debug('Z10 ok')
             
     
         #if Z is 1 and S2_status is 1:
         if S2_status is 1:
+            time.sleep(tZSleep)
             logging.debug('Z2 start')
             if tZ2Aktiv is 0:
                 thtZ2=threading.Thread(target=tZ2)
@@ -410,6 +417,7 @@ try:
                         
 
         if (Z is 2 and T_A>80 and t_Z2<30)or(Z is 4 and T_K<48):
+            time.sleep(tZSleep)
             logging.debug('Z3 start')
             if Z is not 3:
                 thtZ3=threading.Thread(target=tZ3)
@@ -423,6 +431,7 @@ try:
             
 
         if (Z is 3 and T_K>52)or(Z is 5 and T_K<55):
+            time.sleep(tZSleep)
             logging.debug('Z4 start')
             Z=4
             ZU=100
@@ -430,10 +439,11 @@ try:
             S4_status=0
             time.sleep(delay)
             S3_status=1
-            Servo(3,20,1270,0.2)
+            Servo(3,20,1330,2)
             logging.debug('Z4 ok')
 
         if (Z is 4 and T_K>59)or(Z is 6 and T_K<75):
+            time.sleep(tZSleep)
             logging.debug('Z5 start')
             Z=5
             ZU=90
@@ -441,38 +451,41 @@ try:
             S4_status=0
             time.sleep(delay)
             S3_status=1
-            Servo(3,20,1325,0.2)
+            Servo(3,20,1380,2)
             logging.debug('Z5 ok')
 
         if (Z is 5 and T_K>78)or(Z is 7 and T_K<78):
+            time.sleep(tZSleep)
             logging.debug('Z6 start')
             Z=6
             ZU=82
             S4_status=0
             time.sleep(delay)
             S3_status=1
-            Servo(3,20,1370,0.2)
+            Servo(3,20,1420,2)
             logging.debug('Z6 ok')
 
         if (Z is 6 and T_K>81)or(Z is 8 and T_K<81):
+            time.sleep(tZSleep)
             logging.debug('Z7 start')
             Z=7
             ZU=74
             S4_status=0
             time.sleep(delay)
             S3_status=1
-            Servo(3,20,1415,0.2)
+            Servo(3,20,1465,2)
             logging.debug('Z7 ok')
 
         if (Z is 7 and T_K>84)or(Z is 9 and T_K<84):
+            time.sleep(tZSleep)
             logging.debug('Z8 start')
             S4_status=0
             time.sleep(delay)
             S3_status=1
             if Z is 7:
-                Servo(3,20,1470,0.2)
+                Servo(3,20,1505,2)
             if Z is 9:
-                Servo(3,20,1470,5)
+                Servo(3,20,1505,5)
             Z=8
             ZU=67
             logging.debug('Z8 ok')
@@ -480,6 +493,7 @@ try:
             
 
         if Z is 8 and T_K>87:
+            time.sleep(tZSleep)
             logging.debug('Z9 start')
             Z=9
             ZU=0
