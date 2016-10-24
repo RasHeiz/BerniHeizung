@@ -373,6 +373,7 @@ try:
         logging.debug('LCD show message')
         
         print('T_K= ',T_K,' T_A= ', T_A, ' T_R= ',TR[5:9])
+        logging.debug('Z=%s T_K=%s T_A=%s T_R=%s',Z, T_K, T_A, TR[5:9])
 
         if ((Z is 2 and T_A<80 and t_Z2 is 30)or(T_A<75 and not Z is 2)) and not Z is 1:
             logging.debug('Z1 start')

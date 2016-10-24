@@ -157,7 +157,7 @@ while True:
 #Schreiben der temperaturen und zeit in liste, falls sinnvolle werte vorhanden
     
     if la21[0]>0 or la11[0]>0:
-        logging.debug('Werte sind vorhanden --> schreiben in .csv')
+        logging.debug('Werte sind vorhanden --> schreiben in .csv t=%s T1=%s T2=%s', lt[11], T1, T2)
         with open(file, 'a') as out:
             cw=csv.writer(out, delimiter=',', lineterminator='\n',quotechar='"')
             cw.writerow([lt[11],T1,T2])
